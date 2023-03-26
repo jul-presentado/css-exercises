@@ -1,0 +1,18 @@
+.red{
+    background-color: #f09c9c;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#n2{
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.red.cooler, #n4{
+    font-size: 24px;
+}
+
+#n4{
+    background-color: #acddac;
+    font-weight: bold;
+}
